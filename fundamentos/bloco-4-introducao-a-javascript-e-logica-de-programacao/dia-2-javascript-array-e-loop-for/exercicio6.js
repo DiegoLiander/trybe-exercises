@@ -12,7 +12,7 @@ for (let cont=0; cont<=numbers.length-1; cont+=1) {
     }
 }
 if (impar=false) {
-    console.log('nenhum valor ímpar encontrado')
+    console.log('nenhum valor ímpar encontrado');
 }else {
     console.log('Quantidade de numeros impar: ',qtdImpar);
 }

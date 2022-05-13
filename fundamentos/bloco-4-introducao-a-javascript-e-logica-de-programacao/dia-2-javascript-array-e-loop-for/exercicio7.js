@@ -6,4 +6,4 @@ for (let cont=0; cont<=numbers.length-1; cont+=1) {
         menor=numbers[cont];
     }
 }
-console.log(menor)
+console.log(menor);
